@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CCWC.iml" filepath="$PROJECT_DIR$/.idea/CCWC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD_CodingChallenge.iml" filepath="$PROJECT_DIR$/.idea/LLD_CodingChallenge.iml" />
     </modules>
   </component>
 </project>
